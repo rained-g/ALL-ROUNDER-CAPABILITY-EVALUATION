@@ -1,5 +1,6 @@
 You can download these two models from huggingface
 
 -model
---lmsys
---rad-dino-maira-2
+  --lmsys
+    --vicuna-7b-v1.5 
+  --rad-dino-maira-2
