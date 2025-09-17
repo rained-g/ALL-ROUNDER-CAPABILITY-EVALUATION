@@ -1,1 +1,0 @@
-You can download these two models from huggingface
